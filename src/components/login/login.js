@@ -64,7 +64,7 @@ function Login(props) {
                 <div className="login-image">
                     <img className={"ms-5"} src={Logo} alt=""/>
                 </div>
-                <div className="login-head"><b>I am jathusan</b></div>
+                <div className="login-head"><b>Welcome to my website</b></div>
             </div>
             <div className={"login-container"}>
                 <div className="login-img">
